@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Extremamente 
 
 ## 📒 Descrição
 Breve descrição do seu projeto
